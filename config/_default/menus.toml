@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "about"
+  name = "덕복"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "글"
+  url = "posts"
+  weight = 2
+
+[[main]]
+  identifier = "til"
+  name = "TIL"
+  url = "til"
+  weight = 3
+
+[[main]]
+  identifier = "archive"
+  name = "아카이브"
+  url = "archive"
+  weight = 4
