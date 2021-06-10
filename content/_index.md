@@ -26,7 +26,7 @@ header:
     title:
       - 덕복의 개발일지
     subtitle:
-      - 떡볶이 먹고싶다
+      - 개발하고 싶지만 떡볶이는 먹고 싶어
     titleColor: 
     titleShadow: true
     titleFontSize: 44
